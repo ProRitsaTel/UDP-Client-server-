@@ -1,0 +1,10 @@
+C:\Users\ceyz\Desktop\udp final\SeverUdp 5.0\SeverUdp 5.0\bin\Release\SeverUdp 5.0.exe.config
+C:\Users\ceyz\Desktop\udp final\SeverUdp 5.0\SeverUdp 5.0\bin\Release\SeverUdp 5.0.exe
+C:\Users\ceyz\Desktop\udp final\SeverUdp 5.0\SeverUdp 5.0\bin\Release\SeverUdp 5.0.pdb
+C:\Users\ceyz\Desktop\udp final\SeverUdp 5.0\SeverUdp 5.0\obj\Release\SeverUdp 5.0.csprojAssemblyReference.cache
+C:\Users\ceyz\Desktop\udp final\SeverUdp 5.0\SeverUdp 5.0\obj\Release\SeverUdp_5._0.UDP_Server.resources
+C:\Users\ceyz\Desktop\udp final\SeverUdp 5.0\SeverUdp 5.0\obj\Release\SeverUdp_5._0.Properties.Resources.resources
+C:\Users\ceyz\Desktop\udp final\SeverUdp 5.0\SeverUdp 5.0\obj\Release\SeverUdp 5.0.csproj.GenerateResource.cache
+C:\Users\ceyz\Desktop\udp final\SeverUdp 5.0\SeverUdp 5.0\obj\Release\SeverUdp 5.0.csproj.CoreCompileInputs.cache
+C:\Users\ceyz\Desktop\udp final\SeverUdp 5.0\SeverUdp 5.0\obj\Release\SeverUdp 5.0.exe
+C:\Users\ceyz\Desktop\udp final\SeverUdp 5.0\SeverUdp 5.0\obj\Release\SeverUdp 5.0.pdb
