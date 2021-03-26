@@ -1,0 +1,10 @@
+C:\Users\ceyz\Desktop\udp final\ClientUdpNewEraForms\ClientUdpNewEraForms\bin\Release\ClientUdpNewEraForms.exe.config
+C:\Users\ceyz\Desktop\udp final\ClientUdpNewEraForms\ClientUdpNewEraForms\bin\Release\ClientUdpNewEraForms.exe
+C:\Users\ceyz\Desktop\udp final\ClientUdpNewEraForms\ClientUdpNewEraForms\bin\Release\ClientUdpNewEraForms.pdb
+C:\Users\ceyz\Desktop\udp final\ClientUdpNewEraForms\ClientUdpNewEraForms\obj\Release\ClientUdpNewEraForms.csprojAssemblyReference.cache
+C:\Users\ceyz\Desktop\udp final\ClientUdpNewEraForms\ClientUdpNewEraForms\obj\Release\ClientUdpNewEraForms.Form1.resources
+C:\Users\ceyz\Desktop\udp final\ClientUdpNewEraForms\ClientUdpNewEraForms\obj\Release\ClientUdpNewEraForms.Properties.Resources.resources
+C:\Users\ceyz\Desktop\udp final\ClientUdpNewEraForms\ClientUdpNewEraForms\obj\Release\ClientUdpNewEraForms.csproj.GenerateResource.cache
+C:\Users\ceyz\Desktop\udp final\ClientUdpNewEraForms\ClientUdpNewEraForms\obj\Release\ClientUdpNewEraForms.csproj.CoreCompileInputs.cache
+C:\Users\ceyz\Desktop\udp final\ClientUdpNewEraForms\ClientUdpNewEraForms\obj\Release\ClientUdpNewEraForms.exe
+C:\Users\ceyz\Desktop\udp final\ClientUdpNewEraForms\ClientUdpNewEraForms\obj\Release\ClientUdpNewEraForms.pdb

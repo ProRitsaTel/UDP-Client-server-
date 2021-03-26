@@ -1,0 +1,66 @@
+C:\Users\Владислав\source\repos\ClientUdpNewEraForms\ClientUdpNewEraForms\bin\Debug\ClientUdpNewEraForms.exe.config
+C:\Users\Владислав\source\repos\ClientUdpNewEraForms\ClientUdpNewEraForms\bin\Debug\ClientUdpNewEraForms.exe
+C:\Users\Владислав\source\repos\ClientUdpNewEraForms\ClientUdpNewEraForms\bin\Debug\ClientUdpNewEraForms.pdb
+C:\Users\Владислав\source\repos\ClientUdpNewEraForms\ClientUdpNewEraForms\obj\Debug\ClientUdpNewEraForms.csprojAssemblyReference.cache
+C:\Users\Владислав\source\repos\ClientUdpNewEraForms\ClientUdpNewEraForms\obj\Debug\ClientUdpNewEraForms.Form1.resources
+C:\Users\Владислав\source\repos\ClientUdpNewEraForms\ClientUdpNewEraForms\obj\Debug\ClientUdpNewEraForms.Properties.Resources.resources
+C:\Users\Владислав\source\repos\ClientUdpNewEraForms\ClientUdpNewEraForms\obj\Debug\ClientUdpNewEraForms.csproj.GenerateResource.cache
+C:\Users\Владислав\source\repos\ClientUdpNewEraForms\ClientUdpNewEraForms\obj\Debug\ClientUdpNewEraForms.exe
+C:\Users\Владислав\source\repos\ClientUdpNewEraForms\ClientUdpNewEraForms\obj\Debug\ClientUdpNewEraForms.pdb
+C:\Users\ceyz\Desktop\ud\udp 16.03 worms\ClientUdpNewEraForms\ClientUdpNewEraForms\bin\Debug\ClientUdpNewEraForms.exe.config
+C:\Users\ceyz\Desktop\ud\udp 16.03 worms\ClientUdpNewEraForms\ClientUdpNewEraForms\bin\Debug\ClientUdpNewEraForms.exe
+C:\Users\ceyz\Desktop\ud\udp 16.03 worms\ClientUdpNewEraForms\ClientUdpNewEraForms\bin\Debug\ClientUdpNewEraForms.pdb
+C:\Users\ceyz\Desktop\ud\udp 16.03 worms\ClientUdpNewEraForms\ClientUdpNewEraForms\obj\Debug\ClientUdpNewEraForms.csprojAssemblyReference.cache
+C:\Users\ceyz\Desktop\ud\udp 16.03 worms\ClientUdpNewEraForms\ClientUdpNewEraForms\obj\Debug\ClientUdpNewEraForms.Form1.resources
+C:\Users\ceyz\Desktop\ud\udp 16.03 worms\ClientUdpNewEraForms\ClientUdpNewEraForms\obj\Debug\ClientUdpNewEraForms.Properties.Resources.resources
+C:\Users\ceyz\Desktop\ud\udp 16.03 worms\ClientUdpNewEraForms\ClientUdpNewEraForms\obj\Debug\ClientUdpNewEraForms.csproj.GenerateResource.cache
+C:\Users\ceyz\Desktop\ud\udp 16.03 worms\ClientUdpNewEraForms\ClientUdpNewEraForms\obj\Debug\ClientUdpNewEraForms.exe
+C:\Users\ceyz\Desktop\ud\udp 16.03 worms\ClientUdpNewEraForms\ClientUdpNewEraForms\obj\Debug\ClientUdpNewEraForms.pdb
+C:\Users\Владислав\Desktop\udp 16.03 worms\ClientUdpNewEraForms\ClientUdpNewEraForms\bin\Debug\ClientUdpNewEraForms.exe.config
+C:\Users\Владислав\Desktop\udp 16.03 worms\ClientUdpNewEraForms\ClientUdpNewEraForms\bin\Debug\ClientUdpNewEraForms.exe
+C:\Users\Владислав\Desktop\udp 16.03 worms\ClientUdpNewEraForms\ClientUdpNewEraForms\bin\Debug\ClientUdpNewEraForms.pdb
+C:\Users\Владислав\Desktop\udp 16.03 worms\ClientUdpNewEraForms\ClientUdpNewEraForms\obj\Debug\ClientUdpNewEraForms.csprojAssemblyReference.cache
+C:\Users\Владислав\Desktop\udp 16.03 worms\ClientUdpNewEraForms\ClientUdpNewEraForms\obj\Debug\ClientUdpNewEraForms.Form1.resources
+C:\Users\Владислав\Desktop\udp 16.03 worms\ClientUdpNewEraForms\ClientUdpNewEraForms\obj\Debug\ClientUdpNewEraForms.Properties.Resources.resources
+C:\Users\Владислав\Desktop\udp 16.03 worms\ClientUdpNewEraForms\ClientUdpNewEraForms\obj\Debug\ClientUdpNewEraForms.csproj.GenerateResource.cache
+C:\Users\Владислав\Desktop\udp 16.03 worms\ClientUdpNewEraForms\ClientUdpNewEraForms\obj\Debug\ClientUdpNewEraForms.exe
+C:\Users\Владислав\Desktop\udp 16.03 worms\ClientUdpNewEraForms\ClientUdpNewEraForms\obj\Debug\ClientUdpNewEraForms.pdb
+C:\Users\ceyz\Desktop\udp 16.03 worms\ClientUdpNewEraForms\ClientUdpNewEraForms\bin\Debug\ClientUdpNewEraForms.exe.config
+C:\Users\ceyz\Desktop\udp 16.03 worms\ClientUdpNewEraForms\ClientUdpNewEraForms\bin\Debug\ClientUdpNewEraForms.exe
+C:\Users\ceyz\Desktop\udp 16.03 worms\ClientUdpNewEraForms\ClientUdpNewEraForms\bin\Debug\ClientUdpNewEraForms.pdb
+C:\Users\ceyz\Desktop\udp 16.03 worms\ClientUdpNewEraForms\ClientUdpNewEraForms\obj\Debug\ClientUdpNewEraForms.csprojAssemblyReference.cache
+C:\Users\ceyz\Desktop\udp 16.03 worms\ClientUdpNewEraForms\ClientUdpNewEraForms\obj\Debug\ClientUdpNewEraForms.Form1.resources
+C:\Users\ceyz\Desktop\udp 16.03 worms\ClientUdpNewEraForms\ClientUdpNewEraForms\obj\Debug\ClientUdpNewEraForms.Properties.Resources.resources
+C:\Users\ceyz\Desktop\udp 16.03 worms\ClientUdpNewEraForms\ClientUdpNewEraForms\obj\Debug\ClientUdpNewEraForms.csproj.GenerateResource.cache
+C:\Users\ceyz\Desktop\udp 16.03 worms\ClientUdpNewEraForms\ClientUdpNewEraForms\obj\Debug\ClientUdpNewEraForms.exe
+C:\Users\ceyz\Desktop\udp 16.03 worms\ClientUdpNewEraForms\ClientUdpNewEraForms\obj\Debug\ClientUdpNewEraForms.pdb
+C:\Users\ceyz\Desktop\udp final\ClientUdpNewEraForms\ClientUdpNewEraForms\bin\Debug\ClientUdpNewEraForms.exe.config
+C:\Users\ceyz\Desktop\udp final\ClientUdpNewEraForms\ClientUdpNewEraForms\bin\Debug\ClientUdpNewEraForms.exe
+C:\Users\ceyz\Desktop\udp final\ClientUdpNewEraForms\ClientUdpNewEraForms\bin\Debug\ClientUdpNewEraForms.pdb
+C:\Users\ceyz\Desktop\udp final\ClientUdpNewEraForms\ClientUdpNewEraForms\obj\Debug\ClientUdpNewEraForms.csprojAssemblyReference.cache
+C:\Users\ceyz\Desktop\udp final\ClientUdpNewEraForms\ClientUdpNewEraForms\obj\Debug\ClientUdpNewEraForms.Form1.resources
+C:\Users\ceyz\Desktop\udp final\ClientUdpNewEraForms\ClientUdpNewEraForms\obj\Debug\ClientUdpNewEraForms.Properties.Resources.resources
+C:\Users\ceyz\Desktop\udp final\ClientUdpNewEraForms\ClientUdpNewEraForms\obj\Debug\ClientUdpNewEraForms.csproj.GenerateResource.cache
+C:\Users\ceyz\Desktop\udp final\ClientUdpNewEraForms\ClientUdpNewEraForms\obj\Debug\ClientUdpNewEraForms.csproj.CoreCompileInputs.cache
+C:\Users\ceyz\Desktop\udp final\ClientUdpNewEraForms\ClientUdpNewEraForms\obj\Debug\ClientUdpNewEraForms.exe
+C:\Users\ceyz\Desktop\udp final\ClientUdpNewEraForms\ClientUdpNewEraForms\obj\Debug\ClientUdpNewEraForms.pdb
+C:\Users\vkond\Desktop\123123\ClientUdpNewEraForms\ClientUdpNewEraForms\bin\Debug\ClientUdpNewEraForms.exe.config
+C:\Users\vkond\Desktop\123123\ClientUdpNewEraForms\ClientUdpNewEraForms\bin\Debug\ClientUdpNewEraForms.exe
+C:\Users\vkond\Desktop\123123\ClientUdpNewEraForms\ClientUdpNewEraForms\bin\Debug\ClientUdpNewEraForms.pdb
+C:\Users\vkond\Desktop\123123\ClientUdpNewEraForms\ClientUdpNewEraForms\obj\Debug\ClientUdpNewEraForms.csprojAssemblyReference.cache
+C:\Users\vkond\Desktop\123123\ClientUdpNewEraForms\ClientUdpNewEraForms\obj\Debug\ClientUdpNewEraForms.Form1.resources
+C:\Users\vkond\Desktop\123123\ClientUdpNewEraForms\ClientUdpNewEraForms\obj\Debug\ClientUdpNewEraForms.Properties.Resources.resources
+C:\Users\vkond\Desktop\123123\ClientUdpNewEraForms\ClientUdpNewEraForms\obj\Debug\ClientUdpNewEraForms.csproj.GenerateResource.cache
+C:\Users\vkond\Desktop\123123\ClientUdpNewEraForms\ClientUdpNewEraForms\obj\Debug\ClientUdpNewEraForms.csproj.CoreCompileInputs.cache
+C:\Users\vkond\Desktop\123123\ClientUdpNewEraForms\ClientUdpNewEraForms\obj\Debug\ClientUdpNewEraForms.exe
+C:\Users\vkond\Desktop\123123\ClientUdpNewEraForms\ClientUdpNewEraForms\obj\Debug\ClientUdpNewEraForms.pdb
+C:\Users\ceyz\Desktop\123123\ClientUdpNewEraForms\ClientUdpNewEraForms\bin\Debug\ClientUdpNewEraForms.exe.config
+C:\Users\ceyz\Desktop\123123\ClientUdpNewEraForms\ClientUdpNewEraForms\bin\Debug\ClientUdpNewEraForms.exe
+C:\Users\ceyz\Desktop\123123\ClientUdpNewEraForms\ClientUdpNewEraForms\bin\Debug\ClientUdpNewEraForms.pdb
+C:\Users\ceyz\Desktop\123123\ClientUdpNewEraForms\ClientUdpNewEraForms\obj\Debug\ClientUdpNewEraForms.csprojAssemblyReference.cache
+C:\Users\ceyz\Desktop\123123\ClientUdpNewEraForms\ClientUdpNewEraForms\obj\Debug\ClientUdpNewEraForms.Form1.resources
+C:\Users\ceyz\Desktop\123123\ClientUdpNewEraForms\ClientUdpNewEraForms\obj\Debug\ClientUdpNewEraForms.Properties.Resources.resources
+C:\Users\ceyz\Desktop\123123\ClientUdpNewEraForms\ClientUdpNewEraForms\obj\Debug\ClientUdpNewEraForms.csproj.GenerateResource.cache
+C:\Users\ceyz\Desktop\123123\ClientUdpNewEraForms\ClientUdpNewEraForms\obj\Debug\ClientUdpNewEraForms.csproj.CoreCompileInputs.cache
+C:\Users\ceyz\Desktop\123123\ClientUdpNewEraForms\ClientUdpNewEraForms\obj\Debug\ClientUdpNewEraForms.exe
+C:\Users\ceyz\Desktop\123123\ClientUdpNewEraForms\ClientUdpNewEraForms\obj\Debug\ClientUdpNewEraForms.pdb
